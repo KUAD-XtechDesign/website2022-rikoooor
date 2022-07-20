@@ -251,8 +251,8 @@ a.link_btn{
 a.link_btn:hover{/* classがlink_btnのaタグのマウスオーバー時 */
   opacity: 1;/* 半透明にならないように上書き */
   border-radius: 0;
-  color:#1a65c6;
-  background-color: #ffe50d;
+  color:#ffe50d;
+  background-color: #1a65c6;
 }
 
 /* =================================================
