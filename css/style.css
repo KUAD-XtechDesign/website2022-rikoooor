@@ -252,7 +252,7 @@ a.link_btn:hover{/* classがlink_btnのaタグのマウスオーバー時 */
   opacity: 1;/* 半透明にならないように上書き */
   border-radius: 0;
   color:#ffe50d;
-  background-color: #1a65c6;
+  background-color: #167a0b;
 }
 
 /* =================================================
